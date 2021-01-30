@@ -7,7 +7,7 @@
 </p>
 <details>
   <summary><b>:speech_balloon:</b></summary>
-  <br><br>:school: Studying for a master's degree in <em>SEU</em>.
+  <br><br>:school: Study at <em>SEU</em>.
   <br><br>:baby_chick: Currently intern at <em>HUAWEI</em>. 
   <br><br>:email: <em>896872228@qq.com</em>
 </details>
